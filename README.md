@@ -5,7 +5,7 @@ A simple bash script to calculate simple interest based on principal amount, rat
 ## Description
 
 This project contains a shell script that calculates simple interest using the formula:
-Simple Interest = (Principal × Rate × Time) / 100
+Simple Interest = (Principal × Rate × Time) / 100.
 
 ## Usage
 
